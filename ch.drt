@@ -1,0 +1,9 @@
+void main() {
+int s = 22;
+int m = 25;
+string a = "ra";
+string b = "m";
+int c = s+m;
+print(s+m);
+print (" aditional and name = c,a,b") 
+}  

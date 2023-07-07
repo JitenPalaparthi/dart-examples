@@ -6,7 +6,7 @@ void main() {
   print("value of c=${a + b}");
   int d = a * b;
   print("value of d=${a * b}");
-  print("age:$age")
+  print("age:$age");
   {
     //int t = 15;
     age=56;
@@ -14,4 +14,10 @@ void main() {
     String A = "Rade Syam";
     print("movie in days = $A,$age");
   }
+
+  int? k=0;
+
+  print(k++);
+  print(k++);
+  print(k);
 }

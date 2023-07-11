@@ -34,3 +34,8 @@ void main() {
   print(a);
   print(b);
 }
+
+// take a list --> put all even numbers in one list and odd numbers in another list
+// take a list --> find out all prime numbers in the list
+// 
+
